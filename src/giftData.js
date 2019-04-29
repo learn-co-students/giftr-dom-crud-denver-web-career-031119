@@ -18,6 +18,6 @@ const gifts = [
   {
     id: 4,
     name: 'the last dab',
-    image: 'https://cdn.shopify.com/s/files/1/2086/9287/products/LAstdabReduxx_1024x1024-1_1024x1024.jpg?v=1527778720'
+    image: 'https://cdn.shopify.com/s/files/1/2086/9287/products/3593535324276_1024x1024.jpg?v=1553815367'
   }
 ]
